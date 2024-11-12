@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "farias-gram-app",
+    "name": "FariasGram",
     "slug": "farias-gram-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.webp",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
